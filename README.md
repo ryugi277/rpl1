@@ -3,7 +3,7 @@ Mario5 TS
 
 This repository contains the code for the TypeScript version of the Mario5 demo application.
 
-* This repository was forked from [https://github.com/FlorianRappl/Mario5TS] and adapted to:
+* This repository was cloned from [https://github.com/UBCx-Software-Engineering/screencastmario] and adapted to:
     * Use TypeScript 2.0+.
     * Be buildable inside IDEs.
     * Not depend on `gulp` (e.g., be buildable with `tsc` alone).
